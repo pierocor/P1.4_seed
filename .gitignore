@@ -7,3 +7,4 @@
 *.dSYM
 *#
 tmp/
+*/.ipynb_checkpoints/*
