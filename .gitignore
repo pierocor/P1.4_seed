@@ -1,4 +1,4 @@
-
+.gitignore
 *.DS_Store
 *~
 *.out
@@ -7,4 +7,4 @@
 *.dSYM
 *#
 tmp/
-*/.ipynb_checkpoints/*
+*.ipynb_checkpoints*
